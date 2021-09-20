@@ -1,4 +1,5 @@
-# Buscando restaurantes com o Google Maps
+# Sistema de busca de restaurantes com o Google Maps
+Sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Esse buscador foi desenvolvido usando React.JS e API do Google.
 
 ## Após clonar o projeto execute
 >npm i
