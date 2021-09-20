@@ -1,4 +1,4 @@
-## Buscando restaurantes com o Google Maps
+# Buscando restaurantes com o Google Maps
 
 ## Após clonar o projeto execute
 >npm i
