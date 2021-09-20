@@ -1,4 +1,9 @@
-## Comandos
+## Buscando restaurantes com o Google Maps
+
+## Após clonar o projeto execute
+>npm i
+
+## Comandos usados
 Criar um projeto:
 >npx create-react-app nomedoprojeto
 
