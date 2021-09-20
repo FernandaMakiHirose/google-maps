@@ -31,3 +31,4 @@ Google Maps:
 - [Text Field](https://www.npmjs.com/package/@material/react-text-field)
 - [Nearby Google Maps](https://developers.google.com/maps/documentation/javascript/places)
 - [Animações](https://lottiefiles.com/)
+- [React Animações](https://www.npmjs.com/package/react-lottie)
