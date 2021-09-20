@@ -30,3 +30,4 @@ Google Maps:
 - [BDD e TDD](https://portal.gitnation.org/contents/bdd-and-tdd-in-react)
 - [Text Field](https://www.npmjs.com/package/@material/react-text-field)
 - [Nearby Google Maps](https://developers.google.com/maps/documentation/javascript/places)
+- [Animações](https://lottiefiles.com/)
