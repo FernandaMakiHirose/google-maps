@@ -23,7 +23,7 @@ Instalar o Text Field:
 Google Maps:
 >npm install --save google-maps-react
 
-## Google Maps
+## Google Maps - É necessário utilizar o token após clonar o projeto
 1. [Crie uma conta](https://console.cloud.google.com/freetrial/signup/tos?_ga=2.240322819.1629870843.1632164965-1261608310.1632164965&_gac=1.66342444.1632164965.3d533b5d267814fd9aff5a15fa250bd6&pli=1)
 2. Crie um projeto. Adicione: Maps JavaScript API, Places API
 3. Crie uma credencial: Criar credenciais > Chave de API
