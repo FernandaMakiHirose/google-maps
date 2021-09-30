@@ -5,7 +5,10 @@ Sistema web de busca de restaurantes, parecido com o serviço que o Google ofere
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
 ## Após clonar o projeto execute
->npm i
+>npm install
+
+## Executar o projeto
+>yarn start
 
 ## Comandos usados
 Criar um projeto:
