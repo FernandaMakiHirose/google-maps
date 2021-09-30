@@ -1,6 +1,12 @@
 # Sistema de busca de restaurantes com o Google Maps
 Sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Esse buscador foi desenvolvido usando React.JS e API do Google.
 
+## Requisitos
+- Token
+- Terminal
+- Yarn 
+- NPM
+
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
