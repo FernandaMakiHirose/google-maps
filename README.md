@@ -14,10 +14,6 @@ Abra o projeto no terminal:
 2. Crie um projeto. Adicione: Maps JavaScript API, Places API
 3. Crie uma credencial: Criar credenciais > Chave de API
 
-## Entendendo o código
-`theme.js`: Apresenta cores, fontes padrão <br>
-`styles.js`: Aqui pode-se usar os estilos do arquivo acima para personalizar o layout
-
 ## Documentações
 - [Componentes com e sem estado em React](https://programmingwithmosh.com/javascript/stateful-stateless-components-react/)
 - [React CSS](https://www.w3schools.com/react/react_css.asp)
