@@ -1,33 +1,13 @@
-# Sistema de busca de restaurantes com o Google Maps
-Sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Esse buscador foi desenvolvido usando React.JS e API do Google.
+# Executar o projeto
 
-## Requisitos
-- Token
-- Terminal
-- Yarn 
-- NPM
+Instalar dependências:
 
-## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+	npm install
 
-## Após clonar o projeto execute
->npm install
+Abra o projeto no terminal: 
 
-## Executar o projeto
->yarn start
+	yarn start
 
-## Comandos usados
-Criar um projeto:
->npx create-react-app nomedoprojeto
-
-Instalar o Styled Components:
->yarn add styled-components
-
-Instalar o Text Field:
->npm install @material/react-text-field
-
-Google Maps:
->npm install --save google-maps-react
 
 ## Google Maps - É necessário utilizar o token após clonar o projeto
 1. [Crie uma conta](https://console.cloud.google.com/freetrial/signup/tos?_ga=2.240322819.1629870843.1632164965-1261608310.1632164965&_gac=1.66342444.1632164965.3d533b5d267814fd9aff5a15fa250bd6&pli=1)
